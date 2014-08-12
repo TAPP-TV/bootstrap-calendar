@@ -13,9 +13,9 @@
     "less"
   ],
   "dependencies": {
-    "jquery": "~1.10.2",
-    "bootstrap": "~2.3.1",
-    "underscore": "~1.4.4",
-    "moment": "~2.0.0"
+    "jquery": "~1.10.1",
+    "bootstrap": "~3.2.0",
+    "underscore": "~1.5.2",
+    "moment": "~2.3.1"
   }
 }
